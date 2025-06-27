@@ -1,4 +1,8 @@
-<!-- Header Banner -->
+<!-- 👩‍💻 GIF + Banner at the top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/9911906/235096021-3b32a194-9089-4f90-9fc7-c62f97836f99.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Cheshta</h1>
@@ -20,7 +24,7 @@
 
 ---
 
-### 💼 My Resume Highlights
+### 💼 Projects from Resume
 
 #### 🔹 E-Commerce Web UI (Amazon Clone)
 - Built a full frontend in React.js with CSS Modules, routing, and Firebase Auth
@@ -56,16 +60,6 @@
 
 ---
 
-### 🖼 Aesthetic Touch (GIF & Image Example)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
-> _"I turn ideas into interactive, meaningful, and beautiful digital experiences."_ ✨
-
----
-
 ### 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-id/)
@@ -89,7 +83,7 @@
 
 ---
 
-### 🔖 Quote That Drives Me
+### 🔖 Favorite Quote
 
 > “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
 
