@@ -24,22 +24,6 @@
 
 ---
 
-### 💼 Projects from Resume
-
-#### 🔹 E-Commerce Web UI (Amazon Clone)
-- Built a full frontend in React.js with CSS Modules, routing, and Firebase Auth
-- Designed pixel-perfect UI in Adobe XD and implemented with clean code
-
-#### 🔹 OCR-Based Handwritten Text Extractor
-- Used PyTesseract to extract handwritten records from MCP cards
-- Added biometric security and emergency retrieval features
-
-#### 🔹 Fitness Tracker Dashboard
-- Created personal tracker with data stored in JSON via LocalStorage
-- Visualized data using `Chart.js` for weekly/monthly reports
-
----
-
 ### 🛠 Technical Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -66,22 +50,8 @@
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:cheshta.sharma2006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-clone-website-wst05p.vercel.app/)
 
----
 
-### 🏅 Extras
 
-- 🎙 Guest speaker on AI & networks @ Govt. Girls Sr. Sec. School
-- 🏅 NCC ‘B’ Certificate holder, zonal basketball player, editorial head, and solo singer
-
----
-
-### 🚀 Goals
-
-- 🔍 Learn full-stack development
-- ✨ Build real-world projects
-- 👩‍💻 Land a top internship in frontend or UI/UX
-
----
 
 ### 🔖 Favorite Quote
 
