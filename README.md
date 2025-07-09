@@ -1,6 +1,6 @@
 <!-- 👩‍💻 GIF + Banner at the top -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/12345678/your-gif-name.gif" width="400"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="400"/>
 </p>
 
 
