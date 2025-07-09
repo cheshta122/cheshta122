@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/9911906/235096021-3b32a194-9089-4f90-9fc7-c62f97836f99.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Cheshta</h1>
 <h3 align="center">Front-end development | UI/UX design | backend integration.</h3>
