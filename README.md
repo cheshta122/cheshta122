@@ -1,6 +1,7 @@
 <!-- 👩‍💻 GIF + Banner at the top -->
 <p align="center">
-<img src="https://images.app.goo.gl/z92zLupKr27nDH6a8" width="290"/></p>
+<img src="https://user-images.githubusercontent.com/12345678/your-gif-name.gif" width="400"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Cheshta</h1>
