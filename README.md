@@ -1,6 +1,6 @@
 <!-- 👩‍💻 GIF + Banner at the top -->
 <p align="center">
-<img src="https://images.app.goo.gl/z92zLupKr27nDH6a8" wodth="290"/></p>
+<img src="https://images.app.goo.gl/z92zLupKr27nDH6a8.gif" wodth="290"/></p>
 
 
 <h1 align="center">Hi 👋, I'm Cheshta</h1>
